@@ -1,3 +1,0 @@
-date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
-17:59:03	1439/1439	---MCZ	404	error ('Not%20Found')	text/html	etag:1617880219-ssl-df	https://nortonrefund.netlify.app/robots.txt		(from )
-17:59:03	14470/14470	---MCZ	200	added ('OK')	text/html	etag:%22a08aa932f1566320a1805d917dd46bb9-ssl-df%22	https://nortonrefund.netlify.app/	C:/Users/Admino/Desktop/Tech/nortonrefund.netlify.app/index.html	(from )
